@@ -1,6 +1,6 @@
-# Employee Management System Python Project - urssanjaysingh/Employee-Management-System
+# Employee Management System Python Project - Avinashtkr/Employee-Management-System
 
-Welcome to the GitHub repository for the Employee Management System Python project - urssanjaysingh/Employee-Management-System!
+Welcome to the GitHub repository for the Employee Management System Python project - Avinashtkr/Employee-Management-System!
 
 ## Overview
 
@@ -22,7 +22,8 @@ To get started with the Employee Management System project, follow these steps:
 1. **Clone the repository**: Use the following command to clone the repository to your local machine:
 
    ```
-   git clone https://github.com/urssanjaysingh/Employee-Management-System.git
+   git clone https://github.com/Avinashtkr/Employee-Management-System.git
+
    ```
 
 2. **Install the tabulate module**: The project uses the tabulate module to print tabular data in nicely formatted tables. Make sure to install the tabulate module using pip:
@@ -48,10 +49,10 @@ The Employee Management System project includes the following features:
 
 ## Contributing
 
-urssanjaysingh welcomes contributions to this project! If you find a bug, have an idea for an enhancement, or want to add new features, feel free to open an issue or submit a pull request. Make sure to follow the project's code style and guidelines.
+Avinashtkr welcomes contributions to this project! If you find a bug, have an idea for an enhancement, or want to add new features, feel free to open an issue or submit a pull request. Make sure to follow the project's code style and guidelines.
 
 ## Contact
 
-If you have any questions or need further assistance, you can reach out to urssanjaysingh via email at sanjaysingh26112000@gmail.com.
+If you have any questions or need further assistance, you can reach out to Avinashtkr via email at thakuravinash202.com.
 
 Thank you for visiting this repository, and enjoy managing employees with the Employee Management System!
